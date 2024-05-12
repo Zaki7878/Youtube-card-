@@ -1,0 +1,38 @@
+.card {
+    border: 2px solid black;
+    margin-top: 30px;
+    width: 40vw;
+    display: flex;
+    padding: 15px;
+}
+
+img {
+    border-radius: 10px;
+    position: relative;
+}
+
+.info {
+    margin-left: 12px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+div .text {
+    font-size: 16px;
+    font-weight: 10;
+    padding: 15px 0px;
+}
+
+.img .capsule {
+    position: relative;
+    bottom: 30px;
+    left: 120px;
+    z-index: 10;
+    background-color: rgb(20, 15, 15);
+    text-align: center;
+    color: white;
+    width: 35px;
+    padding: 3px;
+    border-radius: 6px;
+    font-size: 13px;
+}
